@@ -1,0 +1,109 @@
+/* styles for interview */
+/*  called css/styles */
+
+body {
+	background-color: gray;
+	margin: 0;
+	padding: 0;
+}
+
+.stayPut{
+	position: fixed;
+	width: 100%;
+}
+
+h1.topHeading {
+	font-family: 'Sarabun', sans-serif;
+	color: rgb(255, 255, 255);
+	background-color: rgb(0, 0, 0);
+	padding-top: 0%;
+	padding-bottom: 0%;
+	text-align: center;
+	font-size: 5.0em;
+	margin: 0;
+
+}
+/* two ways to center a picture */
+/* way #1 */
+
+div.pics {
+	text-align: center;
+}
+
+div.menuBar {
+	width: 100%;
+	margin:0;
+	height: 4vw;
+	background-color: rgb(255, 255, 255);
+}
+.menuB {
+	float: left;
+	width: 24%;
+	color: black;
+	font-size: 3.0em;
+	text-align: center;
+}
+.pagematerial {
+	padding-top: 15%;
+	float: none;
+}
+p {
+	float: none;
+}
+a.menuLink:hover{
+	text-decoration: none;
+	font-size: 1.1em;
+	text-align: center;
+	color: Black
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: rgb(255,255,255);
+}
+
+a.menuLink:visited, a.menuLink:link{
+	text-decoration: none;
+	color: Black;
+	font-size: 1.1em;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: rgb(255,255,255);
+}
+
+a.menuLink:active{
+	color: rgb(255,255,255);
+}
+
+a#homeLink:link{
+	text-decoration:none;
+	color: rgb(255,255,255);
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: white;
+	font-size: 1.0em;
+}
+
+a#homeLink:visited{
+	text-decoration: none;
+	color: rgb(255,255,255);
+	-webkit-text-stroke-width:1px;
+	-webkit-text-stroke-color: white;
+	font-size: 1.0em;
+
+}
+
+a#homeLink:hover{
+	text-decoration: none;
+	color: rgb(255,255,255);
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color; white;
+	font-size: 1.0em;
+}
+
+a#homeLink:active{
+	text-decoration: none;
+	color: rgb(255,255,255,);
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: white;
+	font-size: 1.0em;
+}
+
+
+
