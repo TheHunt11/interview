@@ -44,8 +44,11 @@ div.menuBar {
 	text-align: center;
 }
 .pagematerial {
+	font-family: 'Sarabun', sans-serif;
 	padding-top: 15%;
 	float: none;
+	font-size: 2em;
+	color: white;
 }
 p {
 	float: none;
