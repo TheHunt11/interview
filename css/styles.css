@@ -50,6 +50,10 @@ div.menuBar {
 	font-size: 2em;
 	color: white;
 }
+
+.firstpagematerial {
+	text-align: center;
+}
 p {
 	float: none;
 }
